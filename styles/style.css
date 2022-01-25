@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+body{
+    background-color: hsl(210, 46%, 95%);
+    font-family: 'Barlow Semi Condensed', sans-serif !important;
+    font-size: 13px;
+}
+.white-card{
+    background-color: white;
+    border-radius: 10px;
+}
+.grey-name{
+    font-size: 14px;
+    color:  hsl(217, 19%, 35%);
+}
+.grey-tag{
+    font-size: 10px;
+    color:  hsla(217, 19%, 35%, 0.5);
+}
+.grey-title{
+    color:  hsl(217, 19%, 35%);
+    font-size: 24px;
+}
+.grey-paragraph{
+    color:  hsla(217, 19%, 35%, 0.7);
+    font-size: 13px;
+
+}
+.violet-card{
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    background-image: url(../images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 450px;
+}
+.light-name{
+    font-size: 14px;
+    color: hsl(210, 46%, 95%);
+}
+.light-tag{
+    font-size: 10px;
+    color: hsl(210, 46%, 95%, 0.5);
+}
+.light-title{
+    font-size: 24px;
+    color: hsl(210, 46%, 95%);
+}
+.light-paragraph{
+    font-size: 13px;
+    color: hsl(210, 46%, 95%, 0.7);
+}
+.grey-card{
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+}
+.dark-card{
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
