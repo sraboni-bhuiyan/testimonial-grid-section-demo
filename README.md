@@ -1,3 +1,3 @@
 ## testimonial-grid-section-demo
 Grid | Column (nested and responsive)
-![](overview.PNG)
+![](images/overview.PNG)
